@@ -1,0 +1,18 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
+N:Verma;Gyanendra;;;
+FN: Gyanendra  Verma 
+ORG:Idea To Venture;
+TITLE:Founder
+EMAIL;type=INTERNET;type=WORK;type=pref:Gyanendra@ideatoventure.com
+EMAIL;type=INTERNET;type=HOME;type=pref:igyanverma@gmail.com
+TEL;type=WORK;type=VOICE:+91 829 284 7689
+TEL;type=HOME;type=VOICE:+91 900 500 6301
+item1.ADR;type=WORK;type=pref:;;H-47, H block  Main Market Alpha 2; Greater Noida; Uttar Pradesh ;201308;India;  
+item1.ADR;type=HOME;type=pref:;;H-47, H block  Main Market Alpha 2; Greater Noida; Uttar Pradesh ;201308;India;
+item1.X-ABADR:IN
+item2.URL;type=WORK; type=pref:https://ideatoventure.com
+item2.URL;type=Home; type=pref:https://ideatoventure.com
+item2.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
