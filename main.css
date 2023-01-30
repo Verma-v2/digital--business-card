@@ -136,11 +136,11 @@ img.profile-pic {
 }
 
 .bg-color-grey {
-	background-color: #F2F2F2;
+	background-color: #F2FBFA;
 }
 
 .bg-color-red {
-	background-color: #c3272f;
+	background-color: #00D8CF;
 }
 
 .bg-color-white {
@@ -173,7 +173,7 @@ img.profile-pic {
 }
 
 .button {
-	background-color: #ef9a9a;
+	background-color: #00D8CF;
 	height: 48px;
 	padding-left: 24px
 	padding-right: 24px;
